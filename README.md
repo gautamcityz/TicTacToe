@@ -1,4 +1,4 @@
-# tictactoe #gamingapp #flutter
+# tictactoe 
 
 A new Flutter gaming project.
 
